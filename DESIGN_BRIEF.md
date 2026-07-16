@@ -62,4 +62,4 @@ Use only synthetic examples:
 - No build step.
 
 ## Quality bar
-Run the Claude Design slop diagnostic before finishing. Compositional tells 3, 8, and 10 must be absent. Target score 0–1/10. Verify HTML structure and key interaction selectors. Do not modify `/home/favianyip/SaveSG`; write only in this preview directory.
+Run the Claude Design slop diagnostic before finishing. Compositional tells 3, 8, and 10 must be absent. Target score 0–1/10. Verify HTML structure and key interaction selectors. Do not modify the source SaveSG repository; write only in this preview directory.
