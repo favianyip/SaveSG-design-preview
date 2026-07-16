@@ -22,6 +22,6 @@ No build step or external dependencies are required. GitHub Pages serves `index.
 
 ## Design posture
 
-Primary surface: **Monitor**. Secondary surfaces: **Decide / Inspect** and **Configure**.
+Primary surface: **Monitor**. The current revision deliberately removes decorative panels, shadows, oversized headlines, and dashboard density.
 
-Visual base: Claude-authored **Quiet Ledger**, with Civic Relay's evidence trail, confidence disclosure, and JIT unavailable state. Composition prioritizes one decision, numeric trust, precise dividers, and mobile resilience over generic dashboard cards.
+The interface uses one narrow reading column, one clear priority action, plain service rows, and a restrained warm-white/ink/deep-green system. Mobile and desktop share the same information model without shrinking the desktop composition into a card stack.
